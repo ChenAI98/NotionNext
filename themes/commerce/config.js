@@ -3,8 +3,7 @@ const CONFIG = {
   COMMERCE_HOME_BANNER_ENABLE: true,
 
   COMMERCE_TEXT_CENTER_TITLE: '我们的相册', // 中间产品区块标题
-  COMMERCE_TEXT_CENTER_DESCRIPTION:
-    '记录辰哥和沛宝的快乐点滴', // 中间产品区块文字描述
+  COMMERCE_TEXT_CENTER_DESCRIPTION:'记录辰哥和沛宝的快乐点滴', // 中间产品区块文字描述
   COMMERCE_TEXT_CENTER_CATEGORY_TITLE: 'TimeLine', // 左侧产品分类标题
   COMMERCE_TEXT_FOOTER_TITLE: 'Chen❦Pei', // COMMERCE主题页脚文案标题；按Shift+Enter键可以换行
   COMMERCE_TEXT_FOOTER_MENU_1: 'TimeLine', // COMMERCE主题页脚左侧菜单标题1
